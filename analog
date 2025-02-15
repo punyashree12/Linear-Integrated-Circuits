@@ -1,0 +1,14 @@
+                                                          EXPERIMENT NO -1
+                                                         Analysis of CS Amplifier
+
+ Aim: 
+    To analyze a common-source (CS) amplifier with specifications of 180 nm technology, 1.8 V supply voltage, and a power budget of 50 μW through DC analysis, transient analysis, and AC analysis, and to extract parameters such as DC operating point, DC analysis, gain, bandwidth, and power.
+
+APPARATUS:
+	NMOS Transistor (CMOSN-nmso4)
+	Voltage Source ( VG - 0.9V, VDD – 1.8v)
+	Resistors (1K OHM)
+	Ground
+	CONNECTING wires
+
+THEORY:
