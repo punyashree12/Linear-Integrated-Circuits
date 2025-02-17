@@ -3,7 +3,7 @@
 ##                                                              **Analysis of CS Amplifier**
 ##
 
-##  i . Aim:
+##  ii . Aim:
  To analyze a common-source (CS) amplifier with current source load specifications of nmos  500nm technology and pmos 180n, 1.8 V supply voltage, and a power budget of 50 μW through DC analysis, transient analysis, and AC analysis, and to extract parameters such as DC operating point, DC analysis, gain, bandwidth, and power.
 
 
@@ -192,8 +192,14 @@ FREQUENCY RESPONSE:
 
 
 Gain_dB: MAX(20*log10(V(vout)/V(n003)))=(30.4574451698dB,179.7608949°) FROM 0.1 TO 1e+12
+
+
 Gain: MAX(mag(V(vout)))=(7.00564561068dB,0°) FROM 0.1 TO 1e+12
+
+
 value3dB: Gain/sqrt(2)=(3.99534565404dB,0°)
+
+
 BW=1e+12 FROM 0.1 TO 1e+12
 
 
