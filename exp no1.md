@@ -173,11 +173,9 @@ FREQUENCY RESPONSE:
 ![Image](https://github.com/user-attachments/assets/0fa94555-0294-43f2-ba73-cc5e22b03ab5)
 
 
-The maximum gain of your signal is about 8.33 dB.
 
-The -3 dB point, where the gain drops to approximately 5.32 dB, defines the bandwidth.
 
-The system maintains this performance across an extensive bandwidth of up to  1×10^12 Hz
+
 
 Gain_dB: 20*log10(V(vout)/V(n002))=(28.9094027074dB,101.944229391°) at 1000
 
