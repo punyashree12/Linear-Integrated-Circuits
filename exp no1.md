@@ -179,6 +179,9 @@ The -3 dB point, where the gain drops to approximately 5.32 dB, defines the band
 
 The system maintains this performance across an extensive bandwidth of up to  1×10^12 Hz
 
+Gain_dB: 20*log10(V(vout)/V(n002))=(28.9094027074dB,101.944229391°) at 1000
+
+
 
 **INFERENCE:** 
 
