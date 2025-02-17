@@ -172,6 +172,10 @@ FREQUENCY RESPONSE:
 
 ![Image](https://github.com/user-attachments/assets/0fa94555-0294-43f2-ba73-cc5e22b03ab5)
 
+![Image](https://github.com/user-attachments/assets/4f5b687e-4cdf-4083-bca6-c944125a85eb)
+
+
+
 
 
 
