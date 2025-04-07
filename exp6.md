@@ -256,7 +256,7 @@ SIMULATION ;
 **3. AC Analysis:**
 ![Image](https://github.com/user-attachments/assets/a933724e-1040-44be-9ecb-351167d71c3f)
 
-Gain = 37.87023 dB, 3 dB BW = 122.329 MHz
+   Gain = 37.87023 dB, 3 dB BW = 122.329 MHz
 
 ii. Circuit 2: Ratio of 1:2 using L = 500 nm
 
@@ -282,7 +282,7 @@ For CMOSP (M2), W = 20 µm, L = 500 nm
 
 ![Image](https://github.com/user-attachments/assets/f8e723d8-2f42-4a3b-a358-e383ae096daf)
 
-    Gain (V/V) = -62.063 V/V = 35.855 dB
+     Gain (V/V) = -62.063 V/V = 35.855 dB
 
 **AC Analysis**
 ![Image](https://github.com/user-attachments/assets/a55767d5-dfc6-4795-9906-c596e12ad5cd)
@@ -312,7 +312,7 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 **Transient Analysis**
 ![Image](https://github.com/user-attachments/assets/6250ac05-3b87-4078-a973-31b4de6c5352)
-    Gain (V/V) = -60 V/V = 35.563 dB
+      Gain (V/V) = -60 V/V = 35.563 dB
 
 **AC Analysis**
 
