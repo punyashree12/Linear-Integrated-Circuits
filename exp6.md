@@ -187,6 +187,7 @@ For ratio of 1:2, then Iref = Itotal/3 = 0.183 mA
 ![Image](https://github.com/user-attachments/assets/36341e18-89e7-49bc-8dcf-a9ee00b479c5)
 
 Simulation:
+
 ![Image](https://github.com/user-attachments/assets/ef1fd5cb-432a-4c65-ad36-38d31dd0d55b)
 ##
 
@@ -271,6 +272,8 @@ For CMOSP (M2), W = 20 µm, L = 500 nm
 **DC Analysis** 
 
 
+
+
 ![Image](https://github.com/user-attachments/assets/461ecaa9-e3c5-4b20-8219-c84ddd14d1b5)
 **Transient Analysis**
 
@@ -298,6 +301,8 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 **DC Analysis** 
 
+
+
 ![Image](https://github.com/user-attachments/assets/009c4cbf-226c-4616-8b55-cee6cfc36f2f)
 **Transient Analysis**
 ![Image](https://github.com/user-attachments/assets/6250ac05-3b87-4078-a973-31b4de6c5352)
@@ -323,6 +328,8 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 
 **DC Analysis** 
+
+
 ![Image](https://github.com/user-attachments/assets/36ac08fa-7a59-411e-ae7c-e0b8501a4503)
 
 **Transient Analysis**
@@ -377,6 +384,8 @@ M6, W = 10 µm, L = 180 nm
 
 
 **DC Analysis** 
+
+
 ![Image](https://github.com/user-attachments/assets/afe11788-3c12-44e1-9556-90c18d5bb4bf)
 
 As we can see, for our (W/L) ratios, the values we obtain from the DC analysis closely match the ones we require.
