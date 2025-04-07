@@ -281,10 +281,11 @@ For CMOSP (M2), W = 20 µm, L = 500 nm
 
 Gain (V/V) = -62.063 V/V = 35.855 dB
 
-**AC Analysis **
+**AC Analysis**
 ![Image](https://github.com/user-attachments/assets/a55767d5-dfc6-4795-9906-c596e12ad5cd)
 
-3 dB BW = 93.0732 MHz, Gain (dB) = 38.015 dB
+
+    3 dB BW = 93.0732 MHz, Gain (dB) = 38.015 dB
 
 
 **ii.** Analysis using L = 1 µm
@@ -308,11 +309,12 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 ![Image](https://github.com/user-attachments/assets/6250ac05-3b87-4078-a973-31b4de6c5352)
 Gain (V/V) = -60 V/V = 35.563 dB
 
-**AC Analysis **
+**AC Analysis**
 
 ![Image](https://github.com/user-attachments/assets/ec83b222-5f20-4637-ba1e-2e7d6e61fa7d)
 
-3 dB BW = 98.90171 MHz, Gain (dB) = 35.481 dB
+
+     3 dB BW = 98.90171 MHz, Gain (dB) = 35.481 dB
 
 
 ii. Analysis using L = 1 µm
@@ -337,9 +339,10 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 ![Image](https://github.com/user-attachments/assets/5e2e6585-a357-4b1d-a43b-4f0fdb3b7f32)
 
 
-**AC Analysis **
+**AC Analysis**
 ![Image](https://github.com/user-attachments/assets/9bed2220-2883-4cce-bc5b-37911eb5958b)
-3 dB BW = 57.2524 MHz, Gain (dB) = 38.69341 dB
+
+      3 dB BW = 57.2524 MHz, Gain (dB) = 38.69341 dB
 
 
 
