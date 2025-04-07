@@ -275,11 +275,14 @@ For CMOSP (M2), W = 20 µm, L = 500 nm
 
 
 ![Image](https://github.com/user-attachments/assets/461ecaa9-e3c5-4b20-8219-c84ddd14d1b5)
+
+
+
 **Transient Analysis**
 
 ![Image](https://github.com/user-attachments/assets/f8e723d8-2f42-4a3b-a358-e383ae096daf)
 
-Gain (V/V) = -62.063 V/V = 35.855 dB
+    Gain (V/V) = -62.063 V/V = 35.855 dB
 
 **AC Analysis**
 ![Image](https://github.com/user-attachments/assets/a55767d5-dfc6-4795-9906-c596e12ad5cd)
@@ -305,9 +308,11 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 
 ![Image](https://github.com/user-attachments/assets/009c4cbf-226c-4616-8b55-cee6cfc36f2f)
+
+
 **Transient Analysis**
 ![Image](https://github.com/user-attachments/assets/6250ac05-3b87-4078-a973-31b4de6c5352)
-Gain (V/V) = -60 V/V = 35.563 dB
+    Gain (V/V) = -60 V/V = 35.563 dB
 
 **AC Analysis**
 
