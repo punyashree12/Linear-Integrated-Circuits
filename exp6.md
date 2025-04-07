@@ -175,22 +175,18 @@ For ratio of 1:2, then Iref = Itotal/3 = 0.183 mA
 
 ## Results:
    
-  **1. DC Analysis:**
 
 
+
+ **CIRCUIT DIAGRAM**
  
-
-
-
-
-
-
-
-
-**CIRCUIT DIAGRAM**
 ![Image](https://github.com/user-attachments/assets/36341e18-89e7-49bc-8dcf-a9ee00b479c5)
 
-**DC ANALYSIS**
+
+
+  **1. DC Analysis:**
+
+  
 ![Image](https://github.com/user-attachments/assets/7780c762-cb9c-4b52-8625-4b9752fd4f16)
 ##
 
