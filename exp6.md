@@ -1,5 +1,3 @@
- 
- 
 **EXP NO -6** 
 
 ##                                                              **Current Mirrorr**
@@ -118,9 +116,7 @@ For the N-channel MOSFETs, M3: - W = 31.23 µm, L = 180 nm
 
 
  
-
-![Image](https://github.com/user-attachments/assets/0e95cf48-10cf-4d69-81bd-b9b93d86a8dd)
-
+![Image](https://github.com/user-attachments/assets/2124627b-08b2-4005-a3a1-26cbe95d6614)
 
 From here, we can see that the simulation is closely matching with our calculated values, since the current flowing through the NMOS (M3), PMOS (M1, M2) are nearly identical. From this, we can verify whether the circuit is following our power requirements, which is a key part in the design of any IC or chip.
 
@@ -175,19 +171,23 @@ For ratio of 1:2, then Iref = Itotal/3 = 0.183 mA
 
 ## Results:
    
-
-
-
- **CIRCUIT DIAGRAM**
- 
-![Image](https://github.com/user-attachments/assets/36341e18-89e7-49bc-8dcf-a9ee00b479c5)
-
-
-
   **1. DC Analysis:**
 
-  
-![Image](https://github.com/user-attachments/assets/7780c762-cb9c-4b52-8625-4b9752fd4f16)
+
+ 
+
+
+
+
+
+
+
+
+**CIRCUIT DIAGRAM**
+![Image](https://github.com/user-attachments/assets/36341e18-89e7-49bc-8dcf-a9ee00b479c5)
+
+Simulation:
+![Image](https://github.com/user-attachments/assets/ef1fd5cb-432a-4c65-ad36-38d31dd0d55b)
 ##
 
 **2. TRANSIENT ANALYSIS :**
@@ -237,8 +237,7 @@ For CMOSP (M1, M2), W = 10 µm, L = 500 nm
 
 **Simulation:**
 
- ![Image](https://github.com/user-attachments/assets/ec924264-7fe7-4a79-8d8f-93df2dadeb4d)
-
+![Image](https://github.com/user-attachments/assets/d74acce0-91f8-48c2-87d6-bd79c1e580c2)
 
 
 **2. TRANSIENT ANALYSIS :**
@@ -272,8 +271,7 @@ For CMOSP (M2), W = 20 µm, L = 500 nm
 **DC Analysis** 
 
 
-![Image](https://github.com/user-attachments/assets/c3110c68-bd15-4621-98c9-18445818b579)
-
+![Image](https://github.com/user-attachments/assets/461ecaa9-e3c5-4b20-8219-c84ddd14d1b5)
 **Transient Analysis**
 
 ![Image](https://github.com/user-attachments/assets/f8e723d8-2f42-4a3b-a358-e383ae096daf)
@@ -300,8 +298,7 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 **DC Analysis** 
 
-![Image](https://github.com/user-attachments/assets/cea7a8f6-dc3b-40d3-82a4-38128c72ef35)
-
+![Image](https://github.com/user-attachments/assets/009c4cbf-226c-4616-8b55-cee6cfc36f2f)
 **Transient Analysis**
 ![Image](https://github.com/user-attachments/assets/6250ac05-3b87-4078-a973-31b4de6c5352)
 Gain (V/V) = -60 V/V = 35.563 dB
@@ -326,8 +323,7 @@ For CMOSP (M2), W = 10 µm, L = 1 µm
 
 
 **DC Analysis** 
-
-![Image](https://github.com/user-attachments/assets/6520927e-11a6-4cff-a272-0795f1a09515)
+![Image](https://github.com/user-attachments/assets/36ac08fa-7a59-411e-ae7c-e0b8501a4503)
 
 **Transient Analysis**
 
@@ -381,7 +377,7 @@ M6, W = 10 µm, L = 180 nm
 
 
 **DC Analysis** 
-![Image](https://github.com/user-attachments/assets/6561386e-a36f-4bef-b889-a45e8e6db07d)
+![Image](https://github.com/user-attachments/assets/afe11788-3c12-44e1-9556-90c18d5bb4bf)
 
 As we can see, for our (W/L) ratios, the values we obtain from the DC analysis closely match the ones we require.
 
@@ -433,6 +429,10 @@ The 1:2 ratio consistently outperforms the 1:1 ratio in terms of gain across all
 3.For 1 μm: More significant improvement (35.481 dB → 38.693 dB)
 
 The current mirror circuit's performance can thus be tailored to specific application needs by selecting appropriate channel lengths and W/L ratios, with clear trade-offs between gain, bandwidth, and silicon area (as evidenced by the increasing transistor widths required for longer channel designs).
+
+
+
+
 
 
 
